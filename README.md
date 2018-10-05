@@ -447,4 +447,3 @@ function removeElementFromEndOfArray(array) {
 }
 
 </script>
-
